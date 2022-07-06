@@ -1,6 +1,3 @@
-﻿// C# program to demonstrate
-// working of LIFO
-// using Stack in C#
 using System;
 using System.Collections.Generic;
 
